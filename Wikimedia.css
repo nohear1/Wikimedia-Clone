@@ -3,6 +3,30 @@ img {
 	width: 135px;
 }
 
+div {
+	width:75%;
+	margin:auto;
+}
+
+table {
+	width:80%;
+	margin:auto;
+}
+
+h2 {
+	color:black;
+	float:right;
+}
+
 p {
-	
+	font-size:22px;
+}
+
+a{
+	color:blue;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
 }
